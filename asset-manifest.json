@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FirstGitRepo/static/css/main.83bd8ac9.chunk.css",
+    "main.js": "/FirstGitRepo/static/js/main.9cb568e5.chunk.js",
+    "main.js.map": "/FirstGitRepo/static/js/main.9cb568e5.chunk.js.map",
+    "runtime~main.js": "/FirstGitRepo/static/js/runtime~main.ef0967d5.js",
+    "runtime~main.js.map": "/FirstGitRepo/static/js/runtime~main.ef0967d5.js.map",
+    "static/js/2.324ba510.chunk.js": "/FirstGitRepo/static/js/2.324ba510.chunk.js",
+    "static/js/2.324ba510.chunk.js.map": "/FirstGitRepo/static/js/2.324ba510.chunk.js.map",
+    "index.html": "/FirstGitRepo/index.html",
+    "precache-manifest.9254f516b146182faa1d1cd94b7f20c5.js": "/FirstGitRepo/precache-manifest.9254f516b146182faa1d1cd94b7f20c5.js",
+    "service-worker.js": "/FirstGitRepo/service-worker.js",
+    "static/css/main.83bd8ac9.chunk.css.map": "/FirstGitRepo/static/css/main.83bd8ac9.chunk.css.map"
+  }
+}
